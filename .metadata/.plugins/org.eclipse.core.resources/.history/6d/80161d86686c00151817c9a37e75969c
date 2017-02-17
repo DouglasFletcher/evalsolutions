@@ -1,0 +1,19 @@
+package test1;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class JavaTestTestPlus {
+
+	@Test
+	public void testPlus() {
+		
+		JavaTest javaTest = new JavaTest();
+
+		int result = javaTest.plus(2, 3);
+		Assert(5, result);
+	
+	}
+
+}

@@ -1,0 +1,1297 @@
+!SESSION 2015-08-30 10:04:26.669 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-30 10:05:11.262
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Doug'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-08-30 10:09:57.994 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-30 10:10:22.985
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Doug'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 11:53:00.905
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 11:53:00.916
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:02:27.640
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:02:27.641
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:02:27.767
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:02:27.768
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:02:28.265
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:02:28.266
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:03:06.859
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:03:06.860
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:03:06.941
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:03:06.942
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:58:03.807
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:58:03.809
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:58:03.904
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:58:03.905
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:58:44.864
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:58:44.864
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 12:58:45.233
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 12:58:45.234
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 14:11:14.112
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 14:11:14.113
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 14:11:15.228
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 14:11:15.228
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 14:11:21.650
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 14:11:21.651
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 14:11:21.822
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 14:11:21.823
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 14:54:12.639
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 14:54:12.639
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 14:54:24.370
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 14:54:24.371
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 14:54:24.462
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 14:54:24.463
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 15:04:25.944
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 15:04:25.945
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 15:04:26.005
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 15:04:26.006
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 20:32:15.486
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 20:32:15.488
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 21:24:58.780
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 21:24:58.785
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 21:24:59.942
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 21:24:59.942
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2015-08-30 21:25:01.201
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:500)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:93)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:77)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:62)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:575)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2015-08-30 21:25:01.202
+!MESSAGE C:\Program Files\Java\jre1.8.0_60\lib\rt.jar is not on its project's build path
+!SESSION 2015-08-31 21:02:08.210 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-31 21:04:08.402
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Doug'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-09-01 22:18:38.114 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-09-01 22:19:08.973
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Doug'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2015-09-09 03:33:56.232
+!MESSAGE Error disposing widget for : org.eclipse.e4.ui.model.application.ui.menu.impl.MenuImpl null
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4422)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.SWT.error(SWT.java:4327)
+	at org.eclipse.swt.graphics.GC.setFont(GC.java:4404)
+	at org.eclipse.swt.custom.CTabFolderRenderer.computeSize(CTabFolderRenderer.java:341)
+	at org.eclipse.e4.ui.workbench.renderers.swt.CTabRendering.computeSize(CTabRendering.java:192)
+	at org.eclipse.swt.custom.CTabFolder.setItemSize(CTabFolder.java:2762)
+	at org.eclipse.swt.custom.CTabFolder.updateItems(CTabFolder.java:3703)
+	at org.eclipse.swt.custom.CTabFolder.updateItems(CTabFolder.java:3640)
+	at org.eclipse.swt.custom.CTabFolder.onResize(CTabFolder.java:2034)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:290)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Control.sendResize(Control.java:2950)
+	at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:977)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1026)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.setRectangle(SashLayout.java:318)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:263)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.layout(SashLayout.java:180)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:981)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1026)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+	at org.eclipse.swt.custom.StackLayout.layout(StackLayout.java:123)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.setRectangle(SashLayout.java:318)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:263)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.layout(SashLayout.java:180)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.EndDeferWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Composite.resizeChildren(Composite.java:950)
+	at org.eclipse.swt.widgets.Composite.resizeChildren(Composite.java:916)
+	at org.eclipse.swt.widgets.Composite.setResizeChildren(Composite.java:1127)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1705)
+	at org.eclipse.swt.widgets.Canvas.WM_SIZE(Canvas.java:462)
+	at org.eclipse.swt.widgets.Decorations.WM_SIZE(Decorations.java:1810)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Canvas.WM_WINDOWPOSCHANGED(Canvas.java:468)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.SetMenu(Native Method)
+	at org.eclipse.swt.widgets.Decorations.setMenuBar(Decorations.java:1174)
+	at org.eclipse.swt.widgets.Menu.releaseParent(Menu.java:1186)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:824)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.disposeWidget(SWTPartRenderer.java:175)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:933)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$3(PartRenderingEngine.java:862)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$8.run(PartRenderingEngine.java:857)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:841)
+	at org.eclipse.ui.internal.WorkbenchWindow$1.handleEvent(WorkbenchWindow.java:319)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:218)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:81)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:59)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:150)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer$1.widgetDisposed(SWTPartRenderer.java:138)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:816)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3811)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3292)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:341)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:171)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4346)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3305)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.ui.workbench 4 2 2015-09-09 03:33:56.693
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ActivationListener.windowActivated(AbstractTextEditor.java:1006)
+	at org.eclipse.ui.internal.Workbench$11.run(Workbench.java:1045)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench.fireWindowActivated(Workbench.java:1042)
+	at org.eclipse.ui.internal.WorkbenchWindow$14.shellActivated(WorkbenchWindow.java:2285)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:88)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1070)
+	at org.eclipse.swt.widgets.Decorations.WM_ACTIVATE(Decorations.java:1666)
+	at org.eclipse.swt.widgets.Shell.WM_ACTIVATE(Shell.java:2151)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4607)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.VtblCall(Native Method)
+	at org.eclipse.swt.internal.ole.win32.IOleInPlaceObject.InPlaceDeactivate(IOleInPlaceObject.java:21)
+	at org.eclipse.swt.ole.win32.OleClientSite.deactivateInPlaceClient(OleClientSite.java:559)
+	at org.eclipse.swt.ole.win32.OleClientSite.onDispose(OleClientSite.java:908)
+	at org.eclipse.swt.ole.win32.OleClientSite.access$1(OleClientSite.java:895)
+	at org.eclipse.swt.ole.win32.OleClientSite$1.handleEvent(OleClientSite.java:129)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:816)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:165)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:789)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1290)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1278)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3811)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3292)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:341)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:171)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4346)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3305)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.equinox.event 4 0 2015-09-09 03:33:57.410
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=org/eclipse/e4/ui/model/ui/UIElement/widget/SET] to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@614e36aa
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.internal.NavigationHistory.getDisplay(NavigationHistory.java:176)
+	at org.eclipse.ui.internal.NavigationHistory.markEditor(NavigationHistory.java:193)
+	at org.eclipse.ui.internal.WorkbenchPage.updateActiveEditorSources(WorkbenchPage.java:407)
+	at org.eclipse.ui.internal.WorkbenchPage.firePartClosed(WorkbenchPage.java:4995)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart$1.handleEvent(CompatibilityPart.java:98)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:218)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:81)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:59)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:150)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer$1.widgetDisposed(SWTPartRenderer.java:138)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:816)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:165)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:789)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1290)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3811)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3292)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:341)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:171)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4346)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3305)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+!SESSION 2015-09-10 21:57:19.219 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-09-10 21:57:39.770
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-09-10 21:58:44.207
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Doug'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-10-04 15:24:17.891 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-04 15:25:25.480
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Doug'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2015-10-09 03:17:37.414
+!MESSAGE Error disposing widget for : org.eclipse.e4.ui.model.application.ui.menu.impl.MenuImpl null
+!STACK 0
+org.eclipse.swt.SWTException: Graphic is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.SWT.error(SWT.java:4327)
+	at org.eclipse.swt.graphics.Font.getFontData(Font.java:184)
+	at org.eclipse.swt.custom.CTabFolderRenderer.drawChevron(CTabFolderRenderer.java:910)
+	at org.eclipse.swt.custom.CTabFolderRenderer.draw(CTabFolderRenderer.java:606)
+	at org.eclipse.e4.ui.workbench.renderers.swt.CTabRendering.draw(CTabRendering.java:244)
+	at org.eclipse.swt.custom.CTabFolder.createButtonImage(CTabFolder.java:668)
+	at org.eclipse.swt.custom.CTabFolder.setButtonBounds(CTabFolder.java:2485)
+	at org.eclipse.swt.custom.CTabFolder.updateItems(CTabFolder.java:3705)
+	at org.eclipse.swt.custom.CTabFolder.updateItems(CTabFolder.java:3640)
+	at org.eclipse.swt.custom.CTabFolder.onResize(CTabFolder.java:2034)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:290)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Control.sendResize(Control.java:2950)
+	at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:977)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1026)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.setRectangle(SashLayout.java:318)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:263)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.layout(SashLayout.java:180)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:981)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1026)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+	at org.eclipse.swt.custom.StackLayout.layout(StackLayout.java:123)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.setRectangle(SashLayout.java:318)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:263)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.layout(SashLayout.java:180)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+	at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+	at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+	at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+	at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.EndDeferWindowPos(Native Method)
+	at org.eclipse.swt.widgets.Composite.resizeChildren(Composite.java:950)
+	at org.eclipse.swt.widgets.Composite.resizeChildren(Composite.java:916)
+	at org.eclipse.swt.widgets.Composite.setResizeChildren(Composite.java:1127)
+	at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1705)
+	at org.eclipse.swt.widgets.Canvas.WM_SIZE(Canvas.java:462)
+	at org.eclipse.swt.widgets.Decorations.WM_SIZE(Decorations.java:1810)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+	at org.eclipse.swt.widgets.Canvas.WM_WINDOWPOSCHANGED(Canvas.java:468)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.SetMenu(Native Method)
+	at org.eclipse.swt.widgets.Decorations.setMenuBar(Decorations.java:1174)
+	at org.eclipse.swt.widgets.Menu.releaseParent(Menu.java:1186)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:824)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.disposeWidget(SWTPartRenderer.java:175)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:933)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$3(PartRenderingEngine.java:862)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$8.run(PartRenderingEngine.java:857)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:841)
+	at org.eclipse.ui.internal.WorkbenchWindow$1.handleEvent(WorkbenchWindow.java:319)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:218)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:81)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:59)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:150)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer$1.widgetDisposed(SWTPartRenderer.java:138)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:816)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3811)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3292)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:341)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:171)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4346)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3305)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.equinox.event 4 0 2015-10-09 03:17:37.676
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=org/eclipse/e4/ui/model/ui/UIElement/widget/SET] to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@2acfe0cf
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.ui.internal.NavigationHistory.getDisplay(NavigationHistory.java:176)
+	at org.eclipse.ui.internal.NavigationHistory.markEditor(NavigationHistory.java:193)
+	at org.eclipse.ui.internal.WorkbenchPage.updateActiveEditorSources(WorkbenchPage.java:407)
+	at org.eclipse.ui.internal.WorkbenchPage.firePartClosed(WorkbenchPage.java:4995)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart$1.handleEvent(CompatibilityPart.java:98)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:218)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:81)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:59)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:150)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer$1.widgetDisposed(SWTPartRenderer.java:138)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:816)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:874)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:165)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:789)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1290)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:819)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+	at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3811)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3292)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:341)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+	at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:171)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4346)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3305)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)

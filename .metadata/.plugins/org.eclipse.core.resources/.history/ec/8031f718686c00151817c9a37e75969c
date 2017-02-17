@@ -1,0 +1,14 @@
+package test1;
+
+
+public class JavaTest {
+
+	public int plus (int value1, int value2) {
+		return value1 + value2 ;  
+	}
+	
+	public String concatenate (String word1, String word2) {
+		return word1 + word2 ; 
+	}
+			
+}
